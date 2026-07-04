@@ -3,3 +3,4 @@ hello world
 good bye
 796yjgfs hjhgdfjse
 merge conflict
+USER 2 CHANGE THIS FILE
